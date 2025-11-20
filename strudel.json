@@ -1,5 +1,5 @@
 {
   "bottle_click": ["/bottle_click.wav"],
   "voice": ["/voice/dream-female-spoken-word.wav"],
-  "_base": "https://raw.githubusercontent.com/wayne-liberty/strudel-samples/main/strudel.json"
+  "_base": "https://raw.githubusercontent.com/wayne-liberty/strudel-samples/main"
 }
