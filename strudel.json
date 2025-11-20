@@ -1,4 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/wayne-liberty/strudel-samples/main",
-  "dreamy": "dream-female-spoken-word.wav"
+  "my-strudel-samples": ["/bottle_click.mp3", "/dream-female-spoken-word.wav"],
+  "_base": "https://raw.githubusercontent.com/wayne-liberty/strudel-samples/main"
 }
